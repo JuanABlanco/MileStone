@@ -4,7 +4,6 @@ using UnityEngine;
 
 public interface IProcess
 {
-    void createProcess();
     void destroyProcess();
     void modefyProcess();
 }
